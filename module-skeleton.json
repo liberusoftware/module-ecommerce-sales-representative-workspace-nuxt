@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-sales-representative-workspace-nuxt",
+  "capabilityKey": "planned:ecommerce:sales-representative-workspace",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-ecommerce-sales-representative-workspace-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/ecommerce/nextjs/sales-representative-workspace.md",
+  "presentationPlan": "projects/ecommerce/nuxt/sales-representative-workspace.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
